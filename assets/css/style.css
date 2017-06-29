@@ -1,0 +1,21 @@
+body {
+	background-image: url("../images/concrete-texture.png");
+	padding-bottom: 70px;
+}
+
+.julian {
+	width: 50%;
+	float: left;
+	margin-right: 20px;
+}
+
+.icons a img{
+	width: 25%;
+}
+
+.container-footer {
+	padding: 20px;
+}
+.caption {
+	text-align: center;
+}
